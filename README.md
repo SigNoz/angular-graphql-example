@@ -5,7 +5,7 @@
 ```
 cd client
 npm i
-ng server --open
+ng serve --open
 
 ```
 
